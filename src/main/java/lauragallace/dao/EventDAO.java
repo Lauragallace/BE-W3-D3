@@ -1,6 +1,6 @@
-package MoEzwawi.dao;
+package lauragallace.dao;
 
-import MoEzwawi.entities.Event;
+import lauragallace.entities.Event;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;

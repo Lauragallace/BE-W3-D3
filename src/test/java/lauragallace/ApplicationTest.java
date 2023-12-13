@@ -1,4 +1,4 @@
-package MoEzwawi;
+package lauragallace;
 
 import org.junit.jupiter.api.Test;
 
